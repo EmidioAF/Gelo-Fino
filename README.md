@@ -1,4 +1,4 @@
-# Gelo Fino
+# Gelo Fino - Projeto em p5.js
 
 ## Integrantes
 - Emidio Angelotti Filho
