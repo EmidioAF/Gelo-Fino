@@ -1,7 +1,5 @@
-# Gelo Fino - Projeto em p5.js
+# Gelo Fino -
 
-## Integrantes
-- Emidio Angelotti Filho
 
 ## Descrição
 Este projeto é um jogo casual inspirado no minigame "Gelo Fino" do Club Penguin.
