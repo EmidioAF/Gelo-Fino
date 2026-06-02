@@ -1,6 +1,6 @@
 # Gelo Fino — The Ice Journey
 
-Jogo casual em JavaScript com **p5.js**, inspirado no estilo do minigame **Thin Ice / Gelo Fino**, mas com identidade visual própria e adaptado para fins acadêmicos. O projeto foi desenvolvido para a disciplina **Web Development: HTML5 Canvas & Games** da PUCPR, com foco em organização de código, jogabilidade e apresentação final. [cite:2]
+Jogo casual em JavaScript com **p5.js**, inspirado no estilo do minigame **Thin Ice / Gelo Fino**, mas com identidade visual própria e adaptado para fins acadêmicos. O projeto foi desenvolvido para a disciplina **Web Development: HTML5 Canvas & Games** da PUCPR, com foco em organização de código, jogabilidade e apresentação final.
 
 ## Participantes
 
@@ -11,9 +11,9 @@ Jogo casual em JavaScript com **p5.js**, inspirado no estilo do minigame **Thin 
 
 ## Descrição do Projeto
 
-**Gelo Fino — The Ice Journey** é um jogo em visão superior no qual o jogador controla um pinguim em um tabuleiro de gelo. Cada bloco de gelo é destruído automaticamente quando o jogador passa por ele, e o objetivo é limpar todos os blocos válidos da fase sem cair na água e sem se prender antes do final. [cite:2]
+**Gelo Fino — The Ice Journey** é um jogo em visão superior no qual o jogador controla um pinguim em um tabuleiro de gelo. Cada bloco de gelo é destruído automaticamente quando o jogador passa por ele, e o objetivo é limpar todos os blocos válidos da fase sem cair na água e sem se prender antes do final. 
 
-O jogo possui múltiplas fases com dificuldade progressiva, sistema de pontuação, vidas, menu principal, tela de instruções, tela sobre, pausa, vitória e game over, atendendo aos requisitos acadêmicos do trabalho. [cite:2]
+O jogo possui múltiplas fases com dificuldade progressiva, sistema de pontuação, vidas, menu principal, tela de instruções, tela sobre, pausa, vitória e game over, atendendo aos requisitos acadêmicos do trabalho. 
 
 ## Tecnologias Utilizadas
 
