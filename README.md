@@ -6,7 +6,7 @@
 
 # Integrantes
 
-> JEmidio Angelotti Filho ; Mateus Glowaski ; Julio Cezar ; Willam Wosch
+> Emidio Angelotti Filho ; Mateus Glowaski ; Julio Cezar ; Willam Wosch
 
 ***
 
