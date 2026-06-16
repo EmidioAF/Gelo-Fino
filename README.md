@@ -4,6 +4,12 @@
 
 ***
 
+# Integrantes
+
+> JEmidio Angelotti Filho ; Mateus Glowaski ; Julio Cezar ; Willam Wosch
+
+***
+
 ## 🎮 Sobre o projeto
 
 **Gelo Fino** é um jogo de puzzle em grade inspirado em jogos de gelo clássicos, no qual o jogador deve atravessar todos os blocos do cenário sem repetir o caminho. O projeto foi estruturado em HTML, CSS e JavaScript, com renderização e loop principal feitos em p5.js. 
